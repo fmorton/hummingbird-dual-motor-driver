@@ -20,7 +20,7 @@ def read(*names, **kwargs):
 
 setup(
     name='hummingbird-dual-motor-driver',
-    version='0.0.3',
+    version='0.0.4',
     license='MIT',
     description='A dual motor driver for Birdbrain Technologies Hummingbird',
     long_description='{}\n{}'.format(
