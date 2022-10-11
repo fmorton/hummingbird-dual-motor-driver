@@ -47,9 +47,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/hummingbird-dual-motor-driver
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/hummingbird-dual-motor-driver/v0.0.1.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/fmorton/hummingbird-dual-motor-driver/v0.0.3.svg
     :alt: Commits since latest release
-    :target: https://github.com/fmorton/hummingbird-dual-motor-driver/compare/v0.0.1...main
+    :target: https://github.com/fmorton/hummingbird-dual-motor-driver/compare/v0.0.3...main
 
 
 
