@@ -20,7 +20,7 @@ project = 'Hummingbird Dual Motor Driver'
 year = '2022'
 author = 'Frank Morton'
 copyright = '{0}, {1}'.format(year, author)
-version = release = '0.0.4'
+version = release = '0.0.5'
 
 pygments_style = 'trac'
 templates_path = ['.']
